@@ -148,6 +148,84 @@ function myFunction() {
   if (numVal == 1) {
     elem = elem1;
   }
+  if (numVal == 2) {
+    elem = elem2;
+  }
+  if (numVal == 3) {
+    elem = elem3;
+  }
+  if (numVal == 4) {
+    elem = elem4;
+  }
+  if (numVal == 5) {
+    elem = elem5;
+  }
+  if (numVal == 6) {
+    elem = elem6;
+  }
+  if (numVal == 7) {
+    elem = elem7;
+  }
+  if (numVal == 8) {
+    elem = elem8;
+  }
+  if (numVal == 9) {
+    elem = elem9;
+  }
+  if (numVal == 10) {
+    elem = elem10;
+  }
+  if (numVal == 11) {
+    elem = elem11;
+  }
+  if (numVal == 12) {
+    elem = elem12;
+  }
+  if (numVal == 13) {
+    elem = elem13;
+  }
+  if (numVal == 14) {
+    elem = elem14;
+  }
+  if (numVal == 15) {
+    elem = elem15;
+  }
+  if (numVal == 16) {
+    elem = elem16;
+  }
+  if (numVal == 17) {
+    elem = elem17;
+  }
+  if (numVal == 18) {
+    elem = elem18;
+  }
+  if (numVal == 19) {
+    elem = elem19;
+  }
+  if (numVal == 20) {
+    elem = elem20;
+  }
+  if (numVal == 21) {
+    elem = elem21;
+  }
+  if (numVal == 22) {
+    elem = elem22;
+  }
+  if (numVal == 23) {
+    elem = elem23;
+  }
+  if (numVal == 24) {
+    elem = elem24;
+  }
+  if (numVal == 25) {
+    elem = elem25;
+  }
+  if (numVal == 26) {
+    elem = elem26;
+  }
+  if (numVal == 27) {
+    elem = elem27;
+  }
 
 
   document.getElementById("qrCode").appendChild(elem);
